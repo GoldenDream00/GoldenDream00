@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-🎓 I am a **Full Stack Web Developer** with over 5 years of experience in versatile web development.
+🎓 I am a **Full Stack Web Developer** with over 8 years of experience in versatile web development.
 👨‍💻 I have a proven tracken record of delivering complicated features requiring high availability and reliability.
 
 In addition to being an expert software engineer I'm well versed in **devops**, **database administration**, **cyber security** and **integration with modern toolings/apis**.
@@ -77,7 +77,7 @@ In 2021, I learned **Progressive Web App(PWA)**, **Micro-Frontend Architecture**
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs,issues&show_icons=true" alt="Passion Potter's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs,issues&show_icons=true" alt="Gerard Ludwin's GitHub Stats">
 </div>
 
 ## 📈 Most used Languages
