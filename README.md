@@ -77,7 +77,7 @@ In 2021, I learned **Progressive Web App(PWA)**, **Micro-Frontend Architecture**
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs,issues&show_icons=true" alt="Gerard Ludwin's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerard Ludwin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs,issues&show_icons=true" alt="Gerard Ludwin's GitHub Stats">
 </div>
 
 ## 📈 Most used Languages
