@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-🎓 I am a **Full Stack Web Developer** with over 8 years of experience in versatile web development.
+🎓 I am a **Senior Full Stack Web Developer** with over 12+ years of experience in versatile web and mobile development.
 👨‍💻 I have a proven tracken record of delivering complicated features requiring high availability and reliability.
 
 In addition to being an expert software engineer I'm well versed in **devops**, **database administration**, **cyber security** and **integration with modern toolings/apis**.
